@@ -18,7 +18,7 @@ function App() {
         It's good for testing or sharing your work. <span role="img" aria-labelledby="test">🤝</span>
         </p>                         
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hello workshop
         </p>
         <a
           className="App-link"
