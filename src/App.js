@@ -18,7 +18,7 @@ function App() {
         It's good for testing or sharing your work. <span role="img" aria-labelledby="test">🤝</span>
         </p>                         
         <p>
-          Hello workshop March 22
+          Hello workshop March 23
         </p>
         <a
           className="App-link"
